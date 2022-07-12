@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2015\Projects\PongClone\PongClone\PongCloneContent\obj\x86\Debug\PongCloneContent.contentprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\for_github\Part2_C#\PongClone\PongClone\PongCloneContent\obj\x86\Debug\PongCloneContent.contentprojResolveAssemblyReference.cache

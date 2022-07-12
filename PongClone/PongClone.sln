@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongClone", "PongClone\PongClone\PongClone.csproj", "{4029A11B-66A4-4888-B3D0-1E07BE57FA4D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PongCloneContent", "PongClone\PongCloneContent\PongCloneContent.contentproj", "{DB6C1659-E890-4255-B79F-B9482AD537A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4029A11B-66A4-4888-B3D0-1E07BE57FA4D}.Debug|x86.ActiveCfg = Debug|x86
+		{4029A11B-66A4-4888-B3D0-1E07BE57FA4D}.Debug|x86.Build.0 = Debug|x86
+		{4029A11B-66A4-4888-B3D0-1E07BE57FA4D}.Release|x86.ActiveCfg = Release|x86
+		{4029A11B-66A4-4888-B3D0-1E07BE57FA4D}.Release|x86.Build.0 = Release|x86
+		{DB6C1659-E890-4255-B79F-B9482AD537A8}.Debug|x86.ActiveCfg = Debug|x86
+		{DB6C1659-E890-4255-B79F-B9482AD537A8}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
